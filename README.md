@@ -1,3 +1,4 @@
 # monday
 Monday practice <br>
-Har Har Mahadev
+Har Har Mahadev<br>
+jai mahakal
